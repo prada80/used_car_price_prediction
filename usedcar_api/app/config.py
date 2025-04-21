@@ -18,7 +18,7 @@ class Settings(BaseSettings):
         "https://localhost:8000",  # type: ignore
     ]
 
-    PROJECT_NAME: str = "Bike Share Count Prediction API"
+    PROJECT_NAME: str = "Used Car Price Prediction API"
 
     class Config:
         case_sensitive = True
