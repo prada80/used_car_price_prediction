@@ -8,7 +8,7 @@ from setuptools import find_packages, setup
 # Package meta-data.
 NAME = 'usedcar_model'
 DESCRIPTION = "Used car price prediction model"
-EMAIL = "ritam.banik@gmail.com"
+EMAIL = "prasenjit.subho@gmail.com"
 AUTHOR = "Ritam Banik"
 REQUIRES_PYTHON = ">=3.7.0"
 
